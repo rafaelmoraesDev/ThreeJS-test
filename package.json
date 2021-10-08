@@ -1,0 +1,23 @@
+{
+  "name": "Three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmoraesDev/three-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelmoraesDev/three-test/issues"
+  },
+  "homepage": "https://github.com/rafaelmoraesDev/three-test#readme",
+  "devDependencies": {
+    "@types/three": "^0.133.0"
+  }
+}
